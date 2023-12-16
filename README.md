@@ -9,4 +9,6 @@ Required software:
 - And a GNU C/C++ compiler. (This is also included in most distrobutions.)
 
 How to run this:
+- git clone https://github.com/realynoicesportfolio/Cars_Input_cpp.git
+
 - 
